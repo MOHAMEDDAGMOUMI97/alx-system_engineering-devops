@@ -1,1 +1,2 @@
-creat first file
+#!/bin/bash
+pwd
